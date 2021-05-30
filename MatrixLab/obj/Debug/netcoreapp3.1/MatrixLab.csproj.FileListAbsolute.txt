@@ -1,0 +1,13 @@
+C:\Users\mihal\source\repos\MatrixLab\MatrixLab\bin\Debug\netcoreapp3.1\MatrixLab.exe
+C:\Users\mihal\source\repos\MatrixLab\MatrixLab\bin\Debug\netcoreapp3.1\MatrixLab.deps.json
+C:\Users\mihal\source\repos\MatrixLab\MatrixLab\bin\Debug\netcoreapp3.1\MatrixLab.runtimeconfig.json
+C:\Users\mihal\source\repos\MatrixLab\MatrixLab\bin\Debug\netcoreapp3.1\MatrixLab.runtimeconfig.dev.json
+C:\Users\mihal\source\repos\MatrixLab\MatrixLab\bin\Debug\netcoreapp3.1\MatrixLab.dll
+C:\Users\mihal\source\repos\MatrixLab\MatrixLab\bin\Debug\netcoreapp3.1\MatrixLab.pdb
+C:\Users\mihal\source\repos\MatrixLab\MatrixLab\obj\Debug\netcoreapp3.1\MatrixLab.csprojAssemblyReference.cache
+C:\Users\mihal\source\repos\MatrixLab\MatrixLab\obj\Debug\netcoreapp3.1\MatrixLab.AssemblyInfoInputs.cache
+C:\Users\mihal\source\repos\MatrixLab\MatrixLab\obj\Debug\netcoreapp3.1\MatrixLab.AssemblyInfo.cs
+C:\Users\mihal\source\repos\MatrixLab\MatrixLab\obj\Debug\netcoreapp3.1\MatrixLab.csproj.CoreCompileInputs.cache
+C:\Users\mihal\source\repos\MatrixLab\MatrixLab\obj\Debug\netcoreapp3.1\MatrixLab.dll
+C:\Users\mihal\source\repos\MatrixLab\MatrixLab\obj\Debug\netcoreapp3.1\MatrixLab.pdb
+C:\Users\mihal\source\repos\MatrixLab\MatrixLab\obj\Debug\netcoreapp3.1\MatrixLab.genruntimeconfig.cache
